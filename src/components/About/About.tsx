@@ -9,7 +9,7 @@ const aboutData = {
   type: "Cell phone store",
   location: "Narketpally, Telangana",
   address: "Opposite of Nalgonda x road, Varkatpally, Narketpalle, Telangana 508254",
-  phone: "095059 71250",
+  phone: "0950*********",
   hours: "Open ⋅ Closes 9 pm",
   services: [
     "Sales: Latest smartphones and feature phones from top brands at competitive prices.",
@@ -39,7 +39,7 @@ const About: React.FC = () => (
         <p><strong>Location:</strong> {aboutData.location}</p>
         <p><strong>Address:</strong> {aboutData.address}</p>
         <p><strong>Phone:</strong> {aboutData.phone}</p>
-         <p><strong>Rating:</strong> {aboutData.rating}</p>
+        <p><strong>Rating:</strong> {aboutData.rating}</p>
         <p><strong>Hours:</strong> {aboutData.hours}</p>
 
         <h3>Services</h3>

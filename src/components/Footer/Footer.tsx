@@ -11,7 +11,7 @@ const Footer: React.FC = () => (
         <p>5.0 (2 Google reviews)</p>
         <p>Cell phone store</p>
         <p>Opposite of Nalgonda x road, Varkatpally, Narketpalle, Telangana 508254</p>
-        <p>Phone: 095059 71250</p>
+        <p>Phone: 0950*********</p>
         <p>Open ⋅ Closes 9 pm</p>
       </div>
       <div className={styles.block}>
